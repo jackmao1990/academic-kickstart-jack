@@ -40,7 +40,12 @@ date_format = "January 2006"
   location = "Columbus, OH"
   date_start = "2018-08-01"
   date_end = "2018-12-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Responsibilities include:
+  • Graduate Teaching Associate for the undergraduate level course ECE 2020: Introduction to Analog Systems and Circuits (~200 students).
+  • Teaching one recitation session weekly to help students review coursework and solve homework problems.
+  • Assisting the instructor in grading weekly homeworks and examinations, and holding weekly office hours to answer student’s questions.
+"""
   
   [[experience]]
   title = "Power System Software Engineer Intern"
@@ -52,9 +57,9 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+- Embedded the power distribution system simulator OpenDSS into a graph database management system (TigerGraph).
+- Participated the front-end development of Integrated Energy Service (IES) System using Angular framework.
+- Conducted a brief literature review of consumer segmentation applied in precision marketing strategies.
   """
 
 [[experience]]
@@ -64,5 +69,8 @@ date_format = "January 2006"
   location = "Columbus, OH"
   date_start = "2018-01-01"
   date_end = "2018-05-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Responsibilities include:
+• Graduate Teaching Associate for the undergraduate level course ECE 2020: Introduction to Analog Systems and Circuits (~350 students).
+• Teaching two recitation sessions weekly to help students review coursework and solve homework problems.
+• Assisting the instructor in grading weekly homeworks and examinations, and holding weekly office hours to answer student’s questions."""
 +++
