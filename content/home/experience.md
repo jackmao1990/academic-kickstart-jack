@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "The Ohio State University"
   company_url = ""
   location = "Columbus, OH"
-  date_start = "2015-08-01"
+  date_start = "2016-08-01"
   date_end = "2019-01-01"
   description = """
   Responsibilities include:
