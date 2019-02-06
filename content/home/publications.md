@@ -29,14 +29,13 @@ view = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
 
-publication_type = "2"
+
 Mao, D., Gao, Z. and Wang, J., 2019. An integrated algorithm for evaluating plug-in electric vehicle’s impact on the state of power grid assets. International Journal of Electrical Power & Energy Systems, 105, pp.793-802.
 
-publication_type = "1"
 Mao, D., Potty, K. and Wang, J., 2018, August. The Impact of Power-Electronics-Based Load Dynamics on Large-disturbance Voltage Stability. In 2018 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
