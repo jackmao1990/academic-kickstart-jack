@@ -45,8 +45,8 @@ date_format = "January 2006"
   [[experience]]
   title = "Power System Software Engineer Intern"
   company = "GEIRI North America"
-  company_url = ""
-  location = "Columbus, OH"
+  company_url = "geirina.net"
+  location = "San Jose, CA"
   date_start = "2018-05-01"
   date_end = "2018-08-20"
   description = """
@@ -57,4 +57,12 @@ date_format = "January 2006"
   * Deploying
   """
 
+[[experience]]
+  title = "Graduate Teaching Associate"
+  company = "The Ohio State University"
+  company_url = ""
+  location = "Columbus, OH"
+  date_start = "2018-01-01"
+  date_end = "2018-05-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 +++
