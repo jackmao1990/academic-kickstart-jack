@@ -35,3 +35,4 @@ publication_type = "-1"
 exclude_featured = false
 +++
 
+Mao, D., Gao, Z. and Wang, J., 2019. An integrated algorithm for evaluating plug-in electric vehicle’s impact on the state of power grid assets. International Journal of Electrical Power & Energy Systems, 105, pp.793-802.
