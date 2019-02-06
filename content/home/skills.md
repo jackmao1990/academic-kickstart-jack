@@ -16,19 +16,15 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  name = "OpenDSS, PowerWorld"
+  name = "OpenDSS, PowerWorld, CYME, DIgSILENT, ArcGIS, TigerGraph"
 
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "MATLAB, C++, GraphSQL"
+
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "GAMS"
+
 
 +++
