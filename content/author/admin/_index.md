@@ -52,7 +52,7 @@ interests = [
   link = "mailto:mao.156@osu.edu"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "fa-linkedin"
+  icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/daijiafan-mao-62b43419/"
 
