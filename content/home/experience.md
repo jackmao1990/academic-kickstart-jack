@@ -34,12 +34,27 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Teaching Associate"
+  company = "The Ohio State University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Columbus, OH"
+  date_start = "2018-08"
+  date_end = "2018-12"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Power System Software Engineer Intern"
+  company = "GEIRI North America"
+  company_url = ""
+  location = "Columbus, OH"
+  date_start = "2015-08"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 +++
