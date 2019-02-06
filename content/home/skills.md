@@ -20,11 +20,8 @@ weight = 7
 
   
 [[feature]]
-  name = "MATLAB, C++, GraphSQL"
+  name = "MATLAB, C++, GAMS, GraphSQL"
 
-  
-[[feature]]
-  name = "GAMS"
 
 
 +++
