@@ -76,6 +76,4 @@ interests = [
 +++
 
 Daijiafan (Jack) Mao received his Bachelor's degree in Electrical Engineering from North China Electric Power University, Beijing, in June 2013. He then joined The Ohio State University in Autumn 2013, and received his M.S. degree in Spring 2015. He's currently a PhD candidate at The Ohio State University majoring Sustainable Energy and Power Systems under Dr. Jiankang (J.K.) Wang's supervision. His research interests are related to power distribution system operation and planning, transportation electrification and smart grid.
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
