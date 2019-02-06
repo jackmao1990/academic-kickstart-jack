@@ -15,7 +15,7 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "Photo_Daijiafan Mao_Intern"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
