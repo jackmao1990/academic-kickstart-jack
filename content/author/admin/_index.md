@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Electrical Engineering"
   institution = "The Ohio State University"
-  year = present
+  year = 2019
 
 [[education.courses]]
   course = "MS in Electrical Engineering"
