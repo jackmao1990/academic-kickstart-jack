@@ -47,8 +47,8 @@ date_format = "January 2006"
   company = "GEIRI North America"
   company_url = ""
   location = "Columbus, OH"
-  date_start = "2015-08-01"
-  date_end = ""
+  date_start = "2018-05-01"
+  date_end = "2018-08-20"
   description = """
   Responsibilities include:
   
