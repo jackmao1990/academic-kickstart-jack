@@ -57,6 +57,10 @@ interests = [
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=yVf1WEEAAAAJ&hl=en"
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/gcushen"
 
 
 # Link to a PDF of your resume/CV from the About widget.
