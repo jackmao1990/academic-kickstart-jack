@@ -16,12 +16,14 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  name = "OpenDSS, PowerWorld, CYME, DIgSILENT, ArcGIS, TigerGraph"
+  name = "OpenDSS, PowerWorld, CYME, DIgSILENT, PSCAD"
 
   
 [[feature]]
   name = "MATLAB, C++, GAMS, GraphSQL"
 
+[[feature]]
+  name = "GAMS, TigerGraph, ArcGIS"
 
 
 +++
