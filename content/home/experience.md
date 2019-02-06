@@ -28,9 +28,12 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+-	Leading the ongoing research project “Integrating EV on Distribution Systems” and participating in project “500 kW/vehicle Power Delivery System Barriers”, both sponsored by Ford Motor Company.
+-	Conducting analytic investigation of plug-in electric vehicle’s charging impact on power distribution system.
+-	Performing a stochastic impact assessment of electric vehicles’ charging on power distribution system using OpenDSS/MATLAB and seeking for potential bottlenecks of massive EV penetration under electric utilities’ constraint.
+-	Carried out a practical survey on electric vehicle DC Fast Charging (DCFC) developing and infrastructure status.
+-	Conducted a literature review of power distribution system expansion planning and identified the motivation of grid upgrade under the increasing penetration level of electric vehicles.
+
   """
 
 [[experience]]
@@ -42,9 +45,10 @@ date_format = "January 2006"
   date_end = "2018-12-01"
   description = """
   Responsibilities include:
-  • Graduate Teaching Associate for the undergraduate level course ECE 2020: Introduction to Analog Systems and Circuits (~200 students).
-  • Teaching one recitation session weekly to help students review coursework and solve homework problems.
-  • Assisting the instructor in grading weekly homeworks and examinations, and holding weekly office hours to answer student’s questions.
+  
+  - Graduate Teaching Associate for the undergraduate level course ECE 2020: Introduction to Analog Systems and Circuits (~200 students).
+  - Teaching one recitation session weekly to help students review coursework and solve homework problems.
+  - Assisting the instructor in grading weekly homeworks and examinations, and holding weekly office hours to answer student’s questions.
 """
   
   [[experience]]
@@ -69,8 +73,11 @@ date_format = "January 2006"
   location = "Columbus, OH"
   date_start = "2018-01-01"
   date_end = "2018-05-01"
-  description = """Responsibilities include:
-• Graduate Teaching Associate for the undergraduate level course ECE 2020: Introduction to Analog Systems and Circuits (~350 students).
-• Teaching two recitation sessions weekly to help students review coursework and solve homework problems.
-• Assisting the instructor in grading weekly homeworks and examinations, and holding weekly office hours to answer student’s questions."""
+  description = """
+  Responsibilities include:
+  
+- Graduate Teaching Associate for the undergraduate level course ECE 2020: Introduction to Analog Systems and Circuits (~350 students).
+- Teaching two recitation sessions weekly to help students review coursework and solve homework problems.
+- Assisting the instructor in grading weekly homeworks and examinations, and holding weekly office hours to answer student’s questions.
+"""
 +++
