@@ -1,20 +1,4 @@
 +++
-title = "Publications"
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view = 4
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
-
-+++
 title = "主动配电网规划与运行test，Planning and Operation of Active Distribution Network test"
 date = 2018-09-01T00:00:00
 draft = false
