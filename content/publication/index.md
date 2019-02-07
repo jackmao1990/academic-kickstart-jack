@@ -69,18 +69,12 @@ doi = ""
 # Does this page contain LaTeX math? (true/false)
 math = true
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
 
-+++
+
 title = "An integrated algorithm for evaluating plug-in electric vehicle’s impact on the state of power grid assets"
 date = 2019-02-01T00:00:00
 draft = false
@@ -149,11 +143,6 @@ doi = "10.1016/j.ijepes.2018.09.028"
 # Does this page contain LaTeX math? (true/false)
 math = true
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
