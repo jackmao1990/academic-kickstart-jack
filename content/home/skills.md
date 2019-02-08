@@ -23,6 +23,6 @@ weight = 7
   name = "MATLAB, C++, GAMS, GraphSQL, ArcGIS"
 
 [[feature]]
-  name = "Electric Power System Analysis, Technology Entrepreneurship and Commercialization"
+  name = "Electric Power System Analysis"
 
 +++
