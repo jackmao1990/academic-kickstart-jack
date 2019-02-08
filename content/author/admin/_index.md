@@ -22,7 +22,7 @@ email = ""
 interests = [
   "Power System Operation and Planning",
   "Transportation Electrification",
-  "Smart Grid"
+  "Smart Grid",
   "Economic Analysis"
 ]
 
