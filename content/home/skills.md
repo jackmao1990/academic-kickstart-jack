@@ -25,5 +25,4 @@ weight = 7
 [[feature]]
   name = "Electric Power System Analysis, Technology Entrepreneurship and Commercialization"
 
-
 +++
