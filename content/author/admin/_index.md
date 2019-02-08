@@ -10,10 +10,10 @@ role = "Power System Software Engineer Intern"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "GEIRI North America", url = "" } ]
+organizations = [ { name = "GEIRI North America", url = "https://geirina.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+# bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -23,6 +23,7 @@ interests = [
   "Power System Operation and Planning",
   "Transportation Electrification",
   "Smart Grid"
+  "Economic Analysis"
 ]
 
 # List qualifications (such as academic degrees)
