@@ -17,7 +17,6 @@ weight = 7
 
 [[feature]]
   name = "OpenDSS, PowerWorld, CYME, DIgSILENT, PSCAD"
-
   
 [[feature]]
   name = "MATLAB, C++, GAMS, GraphSQL, ArcGIS"
