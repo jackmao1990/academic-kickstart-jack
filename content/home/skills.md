@@ -20,10 +20,10 @@ weight = 7
 
   
 [[feature]]
-  name = "MATLAB, C++, GAMS, GraphSQL"
+  name = "MATLAB, C++, GAMS, GraphSQL, ArcGIS"
 
 [[feature]]
-  name = "GAMS, TigerGraph, ArcGIS"
+  name = "Electric Power System Analysis, Technology Entrepreneurship and Commercialization"
 
 
 +++
